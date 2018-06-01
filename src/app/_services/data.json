@@ -1,0 +1,788 @@
+{
+    "products": [
+        {
+            "id": "5b0f9da69bb70e0f607f2d48",
+            "image": [
+                {
+                    "filename": "DOMAE MCB 1.jpg",
+                    "size": 14632
+                },
+                {
+                    "filename": "DOMAE MCB 2.jpg",
+                    "size": 14632
+                },
+                {
+                    "filename": "DOMAE MCB 3.jpg",
+                    "size": 19229
+                },
+                {
+                    "filename": "DOMAE MCB 4.jpg",
+                    "size": 19229
+                },
+                {
+                    "filename": "DOMAE MCB 5.jpg",
+                    "size": 10554
+                },
+                {
+                    "filename": "DOMAE MCB 6.jpg",
+                    "size": 10554
+                }
+            ],
+            "name": "DOMAE MCB",
+            "price": [
+                {
+                    "min": 74800,
+                    "max": 286000
+                }
+            ]
+        },
+        {
+            "id": "5b0f9da69bb70e0f607f2d49",
+            "image": [
+                {
+                    "filename": "[0]ST.DOM16.jpg",
+                    "size": 14632
+                },
+                {
+                    "filename": "[1]ST.DOM16.jpg",
+                    "size": 14632
+                }
+            ],
+            "name": "RCCB DOMAE",
+            "price": [
+                {
+                    "min": 480150,
+                    "max": 518100
+                }
+            ]
+        },
+        {
+            "id": "5b0f9da69bb70e0f607f2d4a",
+            "image": [
+                {
+                    "filename": "[0]HT.ATS.jpg",
+                    "size": 31542
+                },
+                {
+                    "filename": "[1]HT.ATS.jpg",
+                    "size": 16731
+                }
+            ],
+            "name": "SOFT STARTER",
+            "price": [
+                {
+                    "min": 10272900,
+                    "max": 11987800
+                }
+            ]
+        },
+        {
+            "id": "5b0f9da69bb70e0f607f2d4b",
+            "image": [
+                {
+                    "filename": "[0]HT.ATSS.jpg",
+                    "size": 31542
+                }
+            ],
+            "name": "ACB MVS",
+            "price": [
+                {
+                    "min": 22822800,
+                    "max": 46730200
+                }
+            ]
+        },
+        {
+            "id": "5b0f9da69bb70e0f607f2d4c",
+            "image": [
+                {
+                    "filename": "[0]ST.NW.jpg",
+                    "size": 25176
+                },
+                {
+                    "filename": "[1]ST.NW.jpg",
+                    "size": 25176
+                }
+            ],
+            "name": "NW",
+            "price": [
+                {
+                    "min": 33189200,
+                    "max": 40359000
+                }
+            ]
+        },
+        {
+            "id": "5b0f9da69bb70e0f607f2d4d",
+            "image": [
+                {
+                    "filename": "[0]HT.ATV.jpg",
+                    "size": 15047
+                },
+                {
+                    "filename": "[1]HT.ATV.jpg",
+                    "size": 15047
+                }
+            ],
+            "name": "ATV310",
+            "price": [
+                {
+                    "min": 3515600,
+                    "max": 3633300
+                }
+            ]
+        },
+        {
+            "id": "5b0f9da69bb70e0f607f2d4e",
+            "image": [
+                {
+                    "filename": "[0]HT.ATV630.jpg",
+                    "size": 12473
+                },
+                {
+                    "filename": "[1]HT.ATV630.jpg",
+                    "size": 12473
+                }
+            ],
+            "name": "ATV630",
+            "price": [
+                {
+                    "min": 133890900,
+                    "max": 162979300
+                }
+            ]
+        },
+        {
+            "id": "5b0f9da69bb70e0f607f2d4f",
+            "image": [
+                {
+                    "filename": "[0]HT.ATV6300.jpg",
+                    "size": 12473
+                }
+            ],
+            "name": "NG125L",
+            "price": [
+                {
+                    "min": 1047200,
+                    "max": 1047200
+                }
+            ]
+        },
+        {
+            "id": "5b0f9da69bb70e0f607f2d50",
+            "image": [
+                {
+                    "filename": "[0]ST.A9.jpg",
+                    "size": 10561
+                },
+                {
+                    "filename": "[1]ST.A9.jpg",
+                    "size": 10561
+                }
+            ],
+            "name": "ACTI9",
+            "price": [
+                {
+                    "min": 85250,
+                    "max": 85250
+                }
+            ]
+        },
+        {
+            "id": "5b0f9da69bb70e0f607f2d51",
+            "image": [
+                {
+                    "filename": "[0]ST.33.jpg",
+                    "size": 22533
+                },
+                {
+                    "filename": "[1]ST.33.jpg",
+                    "size": 22533
+                }
+            ],
+            "name": "CIRCUIT BREAKER COMPACT",
+            "price": [
+                {
+                    "min": 15364800,
+                    "max": 20263100
+                }
+            ]
+        },
+        {
+            "id": "5b0f9da69bb70e0f607f2d52",
+            "image": [
+                {
+                    "filename": "[0]ST.LV.jpg",
+                    "size": 23304
+                },
+                {
+                    "filename": "[1]ST.LV.jpg",
+                    "size": 23304
+                }
+            ],
+            "name": "NSX",
+            "price": [
+                {
+                    "min": 1420100,
+                    "max": 1420100
+                }
+            ]
+        },
+        {
+            "id": "5b0f9da69bb70e0f607f2d53",
+            "image": [
+                {
+                    "filename": "[0]ST.LV5.jpg",
+                    "size": 24118
+                },
+                {
+                    "filename": "[1]ST.LV5.jpg",
+                    "size": 23739
+                }
+            ],
+            "name": "CVS",
+            "price": [
+                {
+                    "min": 1424500,
+                    "max": 1424500
+                }
+            ]
+        },
+        {
+            "id": "5b0f9da69bb70e0f607f2d54",
+            "image": [
+                {
+                    "filename": "[0]ST.XB.jpg",
+                    "size": 20489
+                },
+                {
+                    "filename": "[1]ST.XB.jpg",
+                    "size": 25212
+                }
+            ],
+            "name": "XB4",
+            "price": [
+                {
+                    "min": 159100,
+                    "max": 159100
+                }
+            ]
+        },
+        {
+            "id": "5b0f9da69bb70e0f607f2d55",
+            "image": [
+                {
+                    "filename": "[0]ST.XB5.jpg",
+                    "size": 18878
+                },
+                {
+                    "filename": "[1]ST.XB5.jpg",
+                    "size": 19620
+                }
+            ],
+            "name": "XB5",
+            "price": [
+                {
+                    "min": 56000,
+                    "max": 56000
+                }
+            ]
+        },
+        {
+            "id": "5b0f9da69bb70e0f607f2d56",
+            "image": [
+                {
+                    "filename": "[0]ST.A9R.jpg",
+                    "size": 14876
+                },
+                {
+                    "filename": "[1]ST.A9R.jpg",
+                    "size": 14876
+                }
+            ],
+            "name": "ACTI9 IID",
+            "price": [
+                {
+                    "min": 641850,
+                    "max": 718850
+                }
+            ]
+        },
+        {
+            "id": "5b0f9da69bb70e0f607f2d57",
+            "image": [
+                {
+                    "filename": "LE.281161.jpg",
+                    "size": 18902
+                }
+            ],
+            "name": "Mallia - RJ45 cat 5e - white - with frame",
+            "price": [
+                {
+                    "min": 136000,
+                    "max": 136000
+                }
+            ]
+        },
+        {
+            "id": "5b0f9da69bb70e0f607f2d58",
+            "image": [
+                {
+                    "filename": "LE.283160.jpg",
+                    "size": 35666
+                }
+            ],
+            "name": "Mallia - RJ11 - Silver",
+            "price": [
+                {
+                    "min": 165200,
+                    "max": 165200
+                }
+            ]
+        },
+        {
+            "id": "5b0f9da69bb70e0f607f2d59",
+            "image": [
+                {
+                    "filename": "[0]LE.4.jpg",
+                    "size": 11785
+                },
+                {
+                    "filename": "[1]LE.4.jpg",
+                    "size": 11785
+                }
+            ],
+            "name": "RX3 4500",
+            "price": [
+                {
+                    "min": 49000,
+                    "max": 49000
+                }
+            ]
+        },
+        {
+            "id": "5b0f9da69bb70e0f607f2d5a",
+            "image": [
+                {
+                    "filename": "[0]LE.41.jpg",
+                    "size": 11785
+                },
+                {
+                    "filename": "[1]LE.41.jpg",
+                    "size": 11785
+                }
+            ],
+            "name": "RX3 6000",
+            "price": [
+                {
+                    "min": 52500,
+                    "max": 52500
+                }
+            ]
+        },
+        {
+            "id": "5b0f9da69bb70e0f607f2d5b",
+            "image": [
+                {
+                    "filename": "LE.281004.jpg",
+                    "size": 34935
+                }
+            ],
+            "name": "Mallia - 3G 1w 10A switch - white - with frame",
+            "price": [
+                {
+                    "min": 132200,
+                    "max": 132200
+                }
+            ]
+        },
+        {
+            "id": "5b0f9da69bb70e0f607f2d5c",
+            "image": [
+                {
+                    "filename": "LE.2810041.jpg",
+                    "size": 34935
+                }
+            ],
+            "name": "3G 1G 20A 1W 2M SQ WH",
+            "price": [
+                {
+                    "min": 277000,
+                    "max": 277000
+                }
+            ]
+        },
+        {
+            "id": "5b0f9da69bb70e0f607f2d5d",
+            "image": [
+                {
+                    "filename": "LE.2810042.jpg",
+                    "size": 34935
+                }
+            ],
+            "name": "PLATE 1M SQ BS AR",
+            "price": [
+                {
+                    "min": 27000,
+                    "max": 27000
+                }
+            ]
+        },
+        {
+            "id": "5b0f9da69bb70e0f607f2d5e",
+            "image": [
+                {
+                    "filename": "LE.2810043.jpg",
+                    "size": 34935
+                }
+            ],
+            "name": "1G 1WAY BIG ROCKER",
+            "price": [
+                {
+                    "min": 27600,
+                    "max": 27600
+                }
+            ]
+        },
+        {
+            "id": "5b0f9da69bb70e0f607f2d5f",
+            "image": [
+                {
+                    "filename": "LE.2810044.jpg",
+                    "size": 34935
+                }
+            ],
+            "name": "Schuko socket outlet with CP 2P+E 16A",
+            "price": [
+                {
+                    "min": 47200,
+                    "max": 47200
+                }
+            ]
+        },
+        {
+            "id": "5b0f9da69bb70e0f607f2d60",
+            "image": [
+                {
+                    "filename": "LE.2810045.jpg",
+                    "size": 34935
+                }
+            ],
+            "name": "RJ45 CAT.5 UTP",
+            "price": [
+                {
+                    "min": 100500,
+                    "max": 100500
+                }
+            ]
+        },
+        {
+            "id": "5b0f9da69bb70e0f607f2d61",
+            "image": [
+                {
+                    "filename": "LE.2810046.jpg",
+                    "size": 34935
+                }
+            ],
+            "name": "^LEGRAND^  RIGID CONDUIT D25 WHITE",
+            "price": [
+                {
+                    "min": 25800,
+                    "max": 25800
+                }
+            ]
+        },
+        {
+            "id": "5b0f9da69bb70e0f607f2d62",
+            "image": [
+                {
+                    "filename": "LE.2810047.jpg",
+                    "size": 34935
+                }
+            ],
+            "name": "^LEGRAND^  RIGID CONDUIT D20 WHITE",
+            "price": [
+                {
+                    "min": 14800,
+                    "max": 14800
+                }
+            ]
+        },
+        {
+            "id": "5b0f9da69bb70e0f607f2d63",
+            "image": [
+                {
+                    "filename": "[0]LE.411.jpg",
+                    "size": 11785
+                }
+            ],
+            "name": "NILOE",
+            "price": [
+                {
+                    "min": 6000,
+                    "max": 19000
+                }
+            ]
+        },
+        {
+            "id": "5b0f9da69bb70e0f607f2d64",
+            "image": [
+                {
+                    "filename": "[0]PH.913.png",
+                    "size": 191373
+                },
+                {
+                    "filename": "[1]PH.913.png",
+                    "size": 189209
+                }
+            ],
+            "name": "BMH",
+            "price": [
+                {
+                    "min": 105100,
+                    "max": 120850
+                }
+            ]
+        },
+        {
+            "id": "5b0f9da69bb70e0f607f2d65",
+            "image": [
+                {
+                    "filename": "[0]PH.92.png",
+                    "size": 52044
+                },
+                {
+                    "filename": "[1]PH.92.png",
+                    "size": 30005
+                }
+            ],
+            "name": "CLAS",
+            "price": [
+                {
+                    "min": 5000,
+                    "max": 7800
+                }
+            ]
+        },
+        {
+            "id": "5b0f9da69bb70e0f607f2d66",
+            "image": [
+                {
+                    "filename": "[0]PH.924.png",
+                    "size": 16442
+                },
+                {
+                    "filename": "[1]PH.924.png",
+                    "size": 16315
+                },
+                {
+                    "filename": "[2]PH.925.png",
+                    "size": 16300
+                }
+            ],
+            "name": "CAPSULE",
+            "price": [
+                {
+                    "min": 4400,
+                    "max": 9550
+                }
+            ]
+        },
+        {
+            "id": "5b0f9da69bb70e0f607f2d67",
+            "image": [
+                {
+                    "filename": "[0]PH.91.png",
+                    "size": 45780
+                }
+            ],
+            "name": "DOWNLIGHT",
+            "price": [
+                {
+                    "min": 47650,
+                    "max": 79600
+                }
+            ]
+        },
+        {
+            "id": "5b0f9da69bb70e0f607f2d68",
+            "image": [
+                {
+                    "filename": "[0]PH.9155.png",
+                    "size": 21883
+                }
+            ],
+            "name": "WALL LAMP",
+            "price": [
+                {
+                    "min": 92250,
+                    "max": 92250
+                }
+            ]
+        },
+        {
+            "id": "5b0f9da69bb70e0f607f2d69",
+            "image": [
+                {
+                    "filename": "[0]PH.9156.png",
+                    "size": 21883
+                }
+            ],
+            "name": "BVP",
+            "price": [
+                {
+                    "min": 3900000,
+                    "max": 3900000
+                }
+            ]
+        },
+        {
+            "id": "5b0f9da69bb70e0f607f2d6a",
+            "image": [
+                {
+                    "filename": "[0]PH.9114.png",
+                    "size": 13791
+                }
+            ],
+            "name": "BY118P",
+            "price": [
+                {
+                    "min": 410000,
+                    "max": 500000
+                }
+            ]
+        },
+        {
+            "id": "5b0f9da69bb70e0f607f2d6b",
+            "image": [
+                {
+                    "filename": "[0]PH.915.png",
+                    "size": 21883
+                }
+            ],
+            "name": "PENDANT LAMP",
+            "price": [
+                {
+                    "min": 139650,
+                    "max": 189500
+                }
+            ]
+        },
+        {
+            "id": "5b0f9da69bb70e0f607f2d6c",
+            "image": [
+                {
+                    "filename": "[0]PH.91140.png",
+                    "size": 37322
+                },
+                {
+                    "filename": "[1]PH.91140.png",
+                    "size": 36940
+                },
+                {
+                    "filename": "[2]PH.91140.png",
+                    "size": 36942
+                }
+            ],
+            "name": "DN027B",
+            "price": [
+                {
+                    "min": 110500,
+                    "max": 140250
+                }
+            ]
+        },
+        {
+            "id": "5b0f9da69bb70e0f607f2d6d",
+            "image": [
+                {
+                    "filename": "[0]PH.929.png",
+                    "size": 26183
+                },
+                {
+                    "filename": "[1]PH.929.png",
+                    "size": 26033
+                },
+                {
+                    "filename": "[2]PH.929.png",
+                    "size": 23800
+                }
+            ],
+            "name": "LEDBulb",
+            "price": [
+                {
+                    "min": 36000,
+                    "max": 36000
+                }
+            ]
+        },
+        {
+            "id": "5b0f9da69bb70e0f607f2d6e",
+            "image": [
+                {
+                    "filename": "[0]PH.9290.png",
+                    "size": 30568
+                },
+                {
+                    "filename": "[1]PH.9290.png",
+                    "size": 30411
+                }
+            ],
+            "name": "LEDClassic",
+            "price": [
+                {
+                    "min": 26900,
+                    "max": 44900
+                }
+            ]
+        },
+        {
+            "id": "5b0f9da69bb70e0f607f2d6f",
+            "image": [
+                {
+                    "filename": "[0]PH.9291.png",
+                    "size": 30568
+                }
+            ],
+            "name": "BN010C",
+            "price": [
+                {
+                    "min": 59415,
+                    "max": 72165
+                }
+            ]
+        },
+        {
+            "id": "5b0f9da69bb70e0f607f2d70",
+            "image": [
+                {
+                    "filename": "[0]PH.9292.png",
+                    "size": 30568
+                }
+            ],
+            "name": "AGILESTYLE",
+            "price": [
+                {
+                    "min": 3495,
+                    "max": 5900
+                }
+            ]
+        },
+        {
+            "id": "5b0f9da69bb70e0f607f2d71",
+            "image": [
+                {
+                    "filename": "[0]PH.9293.png",
+                    "size": 30568
+                }
+            ],
+            "name": "BRP022",
+            "price": [
+                {
+                    "min": 766650,
+                    "max": 1122000
+                }
+            ]
+        }
+    ]
+}

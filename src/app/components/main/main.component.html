@@ -1,0 +1,6 @@
+<div class="container mt-5">
+    <h1>Hi, {{store.name}}!</h1>
+    <div class="products">
+        <card class="product-card" *ngFor="let product of store.products" [data]="product"></card>
+    </div>
+</div>
