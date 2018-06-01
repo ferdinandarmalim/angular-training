@@ -18,15 +18,10 @@ export class CardDetailComponent {
                 this.data = this.store.products.filter((prod) => {
                     return prod.id == this.id;
                 })
-                console.log(this.data)
             })
         }
-        else{
-            this.back();
+        else {
+            this.router.navigateByUrl('/')
         }
-    }
-
-    back(){
-        this.router.navigateByUrl('/')
     }
 }

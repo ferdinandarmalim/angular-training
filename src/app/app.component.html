@@ -1,1 +1,12 @@
-<router-outlet></router-outlet>
+<div class="container mt-5">
+    <div>
+        <h1>Hi, {{store.name}}!</h1>
+        <div class="input-group mb-3">
+            <input type="text" class="form-control" placeholder="Username" [(ngModel)]="nameValue">
+            <div class="input-group-append" (click)="saveName()">
+                <span class="input-group-text" id="basic-addon2">CHANGE NAME</span>
+            </div>
+        </div>
+    </div>
+    <router-outlet></router-outlet>
+</div>

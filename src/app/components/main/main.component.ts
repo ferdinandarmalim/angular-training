@@ -7,7 +7,5 @@ import { Store } from "../../_services/store";
 })
 
 export class MainComponent {
-    constructor(public store: Store) {
-        console.log(store); 
-    }
+    constructor(public store: Store) {}
 }

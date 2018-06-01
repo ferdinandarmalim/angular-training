@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { Store } from './_services/store';
 
 @Component({
   selector: 'app-root',
@@ -6,5 +7,11 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  name = 'Ferdinan';
+  public nameValue = '';
+
+  constructor(public store: Store){}
+
+  saveName(){
+    this.store.name = this.nameValue;
+  }
 }
